@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">0myIP</string>
-    <string name="no_ip">No IP available</string>
+    <string name="no_ip">Not connected!</string>
+    <string name="ip">IP Address</string>
+    <string name="refresh">Refresh</string>
 </resources>
